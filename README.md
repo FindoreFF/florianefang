@@ -33,6 +33,7 @@
 
 ### 📫 Contact
 - ✉️ Email: fangruoyun1214@outlook.com 
-- 📄 [CV (PDF)](https://yourlink.com/resume.pdf)
+- 📄 [CV (PDF)]
+      - Chinese Version: https://github.com/FindoreFF/florianefang/blob/main/CV-Chinese%20Version.pdf
 
 ---
